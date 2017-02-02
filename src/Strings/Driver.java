@@ -3,12 +3,12 @@ package Strings;
 public class Driver {
 
 	public static void main(String[] args) {
-		Stringer myStringer = new Stringer("DrsebrsD");
+		Stringer myStringer = new Stringer("DrBfFrsD");
 		//myStringer.printString();
 		myStringer.listStringChars();
 
 	}
 	
-	//returns: D-Rr-Sss-Eeee-Bbbbb-Rrrrrr-Sssssss-Dddddddd
+	//returns: D-Rr-Bbb-Ffff-Fffff-Rrrrrr-Sssssss-Dddddddd
 
 }
