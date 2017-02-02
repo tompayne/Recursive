@@ -7,7 +7,7 @@ public class Stringer {
 	private String myString;
 
 	public Stringer(String s) {
-		myString = s.toLowerCase(); //change to lowercase
+		myString = s.toLowerCase(); //change to lower case
 
 	}
 
