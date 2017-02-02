@@ -1,5 +1,5 @@
 # Recursive
-This repository depicts recursive as well as standard algorythms for foundational Java.
+This repository depicts recursive as well as standard algorithms for foundational Java.
 
 Triangles: Is a recursive 
 
